@@ -1,0 +1,7 @@
+node_modules/
+*.tar.gz
+bundle-parent.tar.gz
+u-kevin-the-funniest-office-joke-judged-head-to-head-3dc3233c-kit/
+crosscheck.md
+builder-prompt.txt
+.DS_Store
